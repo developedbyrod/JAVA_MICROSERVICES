@@ -1,4 +1,4 @@
-package com.developedbyrod.cambioservice;
+package com.developedbyrod.exchangeservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

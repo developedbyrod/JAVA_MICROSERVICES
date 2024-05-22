@@ -1,4 +1,4 @@
-package com.developedbyrod.cambioservice.model;
+package com.developedbyrod.exchangeservice.model;
 
 import java.math.BigDecimal;
 import java.util.Objects;

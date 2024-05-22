@@ -1,4 +1,4 @@
-package com.developedbyrod.cambioservice;
+package com.developedbyrod.exchangeservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
