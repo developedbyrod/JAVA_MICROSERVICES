@@ -7,7 +7,7 @@ public class Book {
     private Long id;
     private String author;
     private Date launchDate;
-    private double price;
+    private Double price;
     private String title;
     private String currency;
     private String environment;

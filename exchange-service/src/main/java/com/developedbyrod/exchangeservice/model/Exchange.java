@@ -2,13 +2,16 @@ package com.developedbyrod.exchangeservice.model;
 
 import jakarta.persistence.*;
 
+import java.io.Serial;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Objects;
 
-@Entity(name = "exchange")
+@Entity()
+@Table(name = "exchange")
 public class Exchange implements Serializable {
 
+    @Serial
     private static final long serialVersionUID = 1L;
 
     @Id
